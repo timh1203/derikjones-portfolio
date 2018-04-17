@@ -1,11 +1,17 @@
 import React from "react"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Navigation from '../components/Navigation'
 import Header from '../components/Header'
+import Portfolio from '../components/Portfolio'
 
 class Index extends React.Component {
     render(){
         return(
-            <Header />
+            <div className="IndexPage">
+                <Navigation />
+                <Header />
+                <Portfolio />
+            </div>
         )
     }
 }

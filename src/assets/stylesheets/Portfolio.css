@@ -1,0 +1,12 @@
+#Portfolio {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+}
+
+#modalOne,
+#modalTwo,
+#modalThree {
+    width: 100%;
+}
