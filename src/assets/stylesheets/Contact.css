@@ -1,0 +1,13 @@
+#Contact {
+    margin: 100px auto;
+    text-align: center;
+}
+
+.Contact__h1 {
+    font-size: 3em;
+}
+
+#Contact img {
+    max-height: 15em;
+    border-radius: 50%;
+}

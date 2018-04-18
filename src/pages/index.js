@@ -4,6 +4,7 @@ import Navigation from '../components/Navigation'
 import Header from '../components/Header'
 import Portfolio from '../components/Portfolio'
 import Gallery from '../components/Gallery'
+import Contact from '../components/Contact'
 
 class Index extends React.Component {
     render(){
@@ -13,6 +14,7 @@ class Index extends React.Component {
                 <Header />
                 <Portfolio />
                 <Gallery />
+                <Contact />
             </div>
         )
     }
