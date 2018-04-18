@@ -10,3 +10,7 @@
 #modalThree {
     width: 100%;
 }
+
+.modal .modal-dialog {
+    min-width: 95vw;
+}
