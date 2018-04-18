@@ -43,6 +43,7 @@ class Portfolio extends React.Component {
     render() {
       return (
         <div id="Portfolio">
+            <h1>FEATURED PROJECTS</h1>
             <div className="row justify-content-around">
                 <div className="col-lg-3 col-md-3 col-sm-12">
                     <p>Downtown Brambleton</p>
